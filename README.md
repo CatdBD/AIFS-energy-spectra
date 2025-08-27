@@ -1,12 +1,11 @@
-# <
- AIFS Energy Spectra
+## AIFS Energy Spectra
 
 This repository contains Python code and Jupyter notebooks developed during my internship at the **Australian Bureau of Meteorology (BOM)**.  
 The main objective is to analyze and compare energy spectra from different weather models.
 
 ---
 
-## =Â Repository Structure
+## Repository Structure
 
 This repository includes two main notebooks:
 
@@ -18,7 +17,7 @@ This repository includes two main notebooks:
 
 ---
 
-##  Environment and Requirements
+## Environment and Requirements
 
 A local clone of **[WeatherBench2](https://github.com/google-research/weatherbench2)** is required.  
 The link to the repo is also indicated in the `"imports"` cell of the `zonal_energy_spectrum.ipynb` notebook.  
@@ -27,14 +26,14 @@ All notebooks were developed and tested on **Gadi**, the NCI supercomputer, with
 
 ---
 
-## =Ý Notes
+## Notes
 
 This work was carried out as part of my internship at the **Bureau of Meteorology**.  
 The repository is still evolving, and scripts or notebooks may be updated over time.
 
 ---
 
-## =Ü License
+## License
 
 This project is distributed under the MIT License.  
 See [`LICENSE`](./LICENSE) for details.
