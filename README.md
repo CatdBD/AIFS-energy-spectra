@@ -13,7 +13,14 @@ This repository includes two main notebooks:
   Transforms regular weather fields into energy spectrum files.
 
 - **`workspace.ipynb`**  
-  A working notebook containing sections for plotting spectra and downloading IFS fields.  
+  A working notebook containing sections for plotting spectra and downloading IFS fields.
+
+And results analysis :
+- **`results.md`**  
+  A recap of the seminar speech
+  
+- **`Evaluation of the ECMWF ML model AIFS.pptx`**  
+  A presentation to show the plots and results obtained
 
 ---
 
